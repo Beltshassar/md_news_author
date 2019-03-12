@@ -65,7 +65,8 @@ class ShowAuthorNameViewHelper extends \TYPO3\CMS\Fluid\Core\ViewHelper\Abstract
     $fullAuthor = $author->getFirstname().' '.$author->getLastname();
 
     if ($authorTitle) {
-      $fullAuthor = $authorTitle.' '.$fullAuthor;
+      //$fullAuthor = $authorTitle.' '.$fullAuthor;
+	  $fullAuthor = $fullAuthor;
     }
 
     return $fullAuthor;
