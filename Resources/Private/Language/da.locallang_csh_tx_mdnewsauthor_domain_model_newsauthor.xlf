@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+  <file source-language="en" target-language="da" datatype="plaintext" original="messages" date="2016-09-15T14:10:30Z" product-name="md_news_author">
+    <header/>
+    <body>
+      <trans-unit id="gender.description">
+        <source>Select the gender of the author</source>
+        <target>Angiv forfatteres køn</target>
+      </trans-unit>
+      <trans-unit id="title.description">
+        <source>Add title of the author (e.g. Prof.)</source>
+        <target>Forfatterens titel (f.eks Prof.)</target>
+      </trans-unit>
+      <trans-unit id="firstname.description">
+        <source>Authors firstname (mandatory)</source>
+        <target>Forfatterens fornavn (påkrævet)</target>
+      </trans-unit>
+      <trans-unit id="lastname.description">
+        <source>Authors lastname (mandatory)</source>
+        <target>Forfatterens (påkrævet)</target>
+      </trans-unit>
+      <trans-unit id="phone.description">
+        <source>Authors phone number</source>
+        <target>Forfatterens telefonnummer</target>
+      </trans-unit>
+      <trans-unit id="email.description">
+        <source>Authors email address</source>
+        <target>Forfatterens email-adresse</target>
+      </trans-unit>
+      <trans-unit id="www.description">
+        <source>Authors website</source>
+        <target>Forfatterens hjemmeside</target>
+      </trans-unit>
+      <trans-unit id="facebook.description">
+        <source>Authors Facebook profile url</source>
+        <target>URL til forfatterens facebook-profil</target>
+      </trans-unit>
+      <trans-unit id="twitter.description">
+        <source>Authors Twitter profile url</source>
+        <target>URL til forfatterens twitter-profil</target>
+      </trans-unit>
+      <trans-unit id="bio.description">
+        <source>Details about the author</source>
+        <target>Beskrivelse af forfatteren</target>
+      </trans-unit>
+      <trans-unit id="image.description">
+        <source>Image of the author</source>
+        <target>Foto af forfatteren</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+  <file source-language="en" target-language="da" datatype="plaintext" original="messages" date="2016-09-15T14:10:30Z" product-name="md_news_author">
+    <header/>
+    <body>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor">
+        <source>News Author</source>
+        <target>Nyheds forfatter</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.news_author_tab">
+        <source>Author</source>
+        <target>Forfatter</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.gender">
+        <source>Gender</source>
+        <target>Køn</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.gender.female">
+        <source>female</source>
+        <target>kvinde</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.gender.male">
+        <source>male</source>
+        <target>mand</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.firstname">
+        <source>Firstname</source>
+        <target>Fornavn</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.lastname">
+        <source>Lastname</source>
+        <target>Efternavn</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.phone">
+        <source>Phone number</source>
+        <target>Telefonnummer</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.email">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.www">
+        <source>WWW</source>
+        <target>WWW</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.facebook">
+        <source>Facebook</source>
+        <target>Facebook</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.twitter">
+        <source>Twitter</source>
+        <target>Twitter</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.bio">
+        <source>Bio</source>
+        <target>Personbeskrivelse</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.image">
+        <source>Author image</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="tx_mdnewsauthor_domain_model_newsauthor.categories">
+        <source>Categories</source>
+        <target>Kategorier</target>
+      </trans-unit>
+
+      <trans-unit id="flex_author">
+        <source>General settings</source>
+        <target>Generelle indstillinger</target>
+      </trans-unit>
+      <trans-unit id="flex_author.view">
+        <source>Plugin settings</source>
+        <target>Plugin indstillinger</target>
+      </trans-unit>
+      <trans-unit id="flex_author.mode">
+        <source>Please choose plugin mode</source>
+        <target>Vælg plugin tilstand</target>
+      </trans-unit>
+      <trans-unit id="flex_author.list">
+        <source>List authors</source>
+        <target>Forfatter liste</target>
+      </trans-unit>
+      <trans-unit id="flex_author.show">
+        <source>Author details</source>
+        <target>Forfatter visning</target>
+      </trans-unit>
+      <trans-unit id="flex_author.detailPid">
+        <source>Page with single author view</source>
+        <target>Side med forfatter visning</target>
+      </trans-unit>
+      <trans-unit id="flex_author.listPid">
+        <source>Page with author list</source>
+        <target>Side med forfatter liste</target>
+      </trans-unit>
+
+      <trans-unit id="flex_author.tabList">
+        <source>List view settings</source>
+        <target>Indstillinger for liste visning</target>
+      </trans-unit>
+      <trans-unit id="flex_author.listImageWidth">
+        <source>Image width (numeric with optional "m" or "c")</source>
+        <target>Billedebredde (målt i pixels - mulighed for "m" eller "c")</target>
+      </trans-unit>
+      <trans-unit id="flex_author.listImageHeight">
+        <source>Image height (numeric with optional "m" or "c")</source>
+        <target>Billedehøjde (målt i pixels - mulighed for "m" eller "c")</target>
+      </trans-unit>
+      <trans-unit id="flex_author.listAlphabeticalNavigation">
+        <source>Show alphabetical navigation</source>
+        <target>Vis alfabetisk navigation</target>
+      </trans-unit>
+
+      <trans-unit id="flex_author.tabCategory">
+        <source>Categories</source>
+        <target>Kategorier</target>
+      </trans-unit>
+      <trans-unit id="flex_author.categoryDesc">
+        <source>Show authors of selected categories only</source>
+        <target>Vis kun forfattere fra den valgte Kategori</target>
+      </trans-unit>
+
+      <trans-unit id="flex_author.tabDetail">
+        <source>Detail view settings</source>
+        <target>Instillinger for forfatter visning</target>
+      </trans-unit>
+      <trans-unit id="flex_author.detailImageWidth">
+        <source>Image width (numeric with optional "m" or "c")</source>
+        <target>Billedebredde (målt i pixels - mulighed for "m" eller "c")</target>
+      </trans-unit>
+      <trans-unit id="flex_author.detailImageHeight">
+        <source>Image height (numeric with optional "m" or "c")</source>
+        <target>Billedehøjde (målt i pixels - mulighed for "m" eller "c")</target>
+      </trans-unit>
+
+      <trans-unit id="tx_newsauthor_domain_model_news">
+        <source>News</source>
+        <target>Nyheder</target>
+      </trans-unit>
+      <trans-unit id="tx_newsauthor_domain_model_news.news_author">
+        <source>News Author</source>
+        <target>Nyheds forfatter</target>
+      </trans-unit>
+      <trans-unit id="tx_news_domain_model_news.tx_extbase_type.Tx_NewsAuthor_News">
+        <source>News Author News</source>
+        <target>News Author News</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
